@@ -7,7 +7,7 @@
  * @FilePath: /dl_2021_hw3/dl_2021_hw3/README.md
 -->
 # Guidance to HW3 code
-This is the code for the third homework at Deep Learning, Tsinghua University, 2021. MIT license followed.
+This is the code for the third homework at Deep Learning, Tsinghua University, 2021.
 
 ## Basic model
 To reproduce training outcomes shown in report for RNN and Transformer model, run following bash scripts in ./bash_scripts respectively:
